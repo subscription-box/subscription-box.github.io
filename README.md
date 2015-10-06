@@ -9,4 +9,7 @@ This is a list of resources I've gathered which is helpful in starting a subscri
 ## Business Resources ie. How to Start a Subscription Box
 * [Box Signup: The Complete Guide On Starting Your Subscription Box Business](https://www.boxsignup.com/)
 * [Reddit Entrepreneur](https://www.reddit.com/r/Entrepreneur/)
+
+## Website Resources ie. How to create the actual subscription box website
+* [Wordpress](http://wordpress.org)
 * [Woo Commerce](http://www.woothemes.com/woocommerce/)
